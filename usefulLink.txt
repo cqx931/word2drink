@@ -1,0 +1,3 @@
+https://github.com/laugustyniak/awesome-sentiment-analysis
+https://ml5js.github.io/docs/word2vec.html
+https://www.wordstream.com/blog/ws/2017/06/06/best-ads
